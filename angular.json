@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "rudy1"
+  "defaultProject": "rudy1",
+  "cli": {
+    "analytics": "90240ca0-9467-4d6b-9c51-972c9ecbcd84"
+  }
 }
